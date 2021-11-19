@@ -1,0 +1,21 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    color:  #FF69B4
+}
+
+p{
+    font-size: 20px;
+    text-align: left;
+    font-family: Lucida Console, sans-serif
+}
+
+body{
+    background-color: #E0FFFF
+}
+
+.center{
+    display : flex;
+    justify-content : center;
+    margin-top: 20px
+}
